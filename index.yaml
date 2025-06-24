@@ -26,6 +26,6 @@ entries:
     - https://github.com/newrelic/
     type: application
     urls:
-    - https://bhautefeuille.github.io/myeapm/charts/nr-ebpf-agent-0.1.25.tgz
+    - https://bhautefeuille.github.io/myeapm/nr-ebpf-agent-0.1.25.tgz
     version: 0.1.25
 generated: "2025-06-24T14:02:56.066868286-04:00"
