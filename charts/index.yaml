@@ -1,9 +1,9 @@
 apiVersion: v1
 entries:
   nr-ebpf-agent:
-  - version: v2
-    appVersion: "0.2.3"
-    created: "2025-07-08T13:52:22.259556424-04:00"
+  - apiVersion: v2
+    appVersion: 0.2.3
+    created: "2025-07-08T14:44:06.074271236-04:00"
     dependencies:
     - name: common-library
       repository: https://helm-charts.newrelic.com
@@ -25,6 +25,6 @@ entries:
     - https://github.com/newrelic/
     type: application
     urls:
-    - https://bhautefeuille.github.io/myeapm/charts/nr-ebpf-agent-0.2.3.tgz
+    - https://bhautefeuille.github.io/myeapm/nr-ebpf-agent-0.2.3.tgz
     version: 0.2.3
-generated: "2025-07-08T13:52:22.256471469-04:00"
+generated: "2025-07-08T14:44:06.072949242-04:00"
